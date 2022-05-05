@@ -8,5 +8,5 @@ else
 fi
 cd /Ajax-Extra-Features
 pip3 install -U -r requirements.txt
-echo "Starting ᗩᒍᗩ᙭....🔥"
+echo "Starting....🔥"
 python3 bot.py
